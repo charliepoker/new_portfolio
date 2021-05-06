@@ -6,7 +6,7 @@ import {
   FaCss3,
   FaJs,
   FaGithub,
-  FaNodeJs,
+  // FaNodeJs,
 } from "react-icons/fa";
 import {SiRedux} from 'react-icons/si'
 
@@ -136,11 +136,11 @@ const Skills = () => {
             <h3>Redux</h3>
             <Dash />
           </Icons>
-          <Icons>
+          {/* <Icons>
             <NodeIcon />
             <h3>NodeJs</h3>
             <Dash />
-          </Icons>
+          </Icons> */}
         </IconContainer>
       </Container>
   </SkillsContainer>
