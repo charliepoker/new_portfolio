@@ -83,9 +83,9 @@ const GithubIcon = styled(FaGithub)`
 const ReduxIcon = styled(SiRedux)`
    font-size: 50px;
 `
-const NodeIcon = styled(FaNodeJs)`
-  font-size: 50px;
-`;
+// const NodeIcon = styled(FaNodeJs)`
+//   font-size: 50px;
+// `;
 
 const Dash = styled.div`
   min-height: 6px;
