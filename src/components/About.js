@@ -95,7 +95,7 @@ const About = () => {
             i’ve known me all my life. Here goes something hopefully.
             <br />
             <br />
-            Charles Iheanacho holds a degree in Microbilogy. I’ve been building
+            Charles Iheanacho holds a degree in Microbiology. I’ve been building
             front-end web applications for a while and I enjoy approaching code
             from a different point of view considering great user interface as
             well as seamless functionality.
